@@ -1,2 +1,2 @@
-# Rastreo-Ecocardiogr-fico
+# Rastreo-Ecocardiografico
 Calculadora para rastreo ecocardiográfico
